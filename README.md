@@ -1,4 +1,6 @@
-# :books: Free Golang learning resources
+# learn-go
+
+:books: Free Golang learning resources
 
 - [A Tour of Go](https://tour.golang.org/list)
 - [Go by Example](https://gobyexample.com/)
