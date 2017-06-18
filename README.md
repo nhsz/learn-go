@@ -12,3 +12,4 @@
 - [Web Development with Go (samples)](https://www.youtube.com/playlist?list=PLVEltXlEeWglOJ42pCxf22YVyxkzan3Xg)
 - [Learning Go](https://miek.nl/go/)
 - [Network programming with Go](https://jan.newmarch.name/go/)
+- [Webapps in Go](https://leanpub.com/antitextbookGo/)
